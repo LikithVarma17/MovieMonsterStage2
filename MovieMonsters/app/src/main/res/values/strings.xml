@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieMonsters</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="favourites">favourites</string>
+    <string name="popular">popular</string>
+    <string name="refresh">refresh</string>
+</resources>
